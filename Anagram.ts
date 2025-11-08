@@ -21,3 +21,4 @@ function aynikelimel(kelimeler: string[]): string[][] {
 
   return gruplar;
 }
+
